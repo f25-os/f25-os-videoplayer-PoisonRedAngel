@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+
+# Ignore the output folder for frames
+frames/
+
+# Ignore the video file itself (if it's large)
+clip.mp4
+
+# Ignore temporary files
+*.pyc
